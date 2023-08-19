@@ -8,7 +8,7 @@ Welcome to my C Projects Repository! This repository contains a collection of pr
 If you're interested in any of the projects, you can navigate to the project's directory and find detailed instructions on how to compile and run the code.
 
 ## Projects
-- [Addition Tutor](./addition_tutor)
+- [Addition Tutor](/addition_tutor)
 - [Decimal To Binary](./decimal_to_binary)
 - [Invoice](./invoice)
 - [Pyramid](./pyramid)
