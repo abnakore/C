@@ -1,4 +1,4 @@
-# Decimal to Bunary
+# Decimal to Binary
 
 Welcome to the Decimal to Binary program repo. This is the program that convert a decimal number(i.e base 10) to a binary number(i.e base 2).
 
