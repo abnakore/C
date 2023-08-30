@@ -34,7 +34,7 @@ void row(int n)
 {
     if(n > 0)
     {
-        printf("*");
+        printf("#");
         row(n - 1);
     }
 }
@@ -52,7 +52,7 @@ void column(int n)
 {
     if(n > 0)
     {
-        printf("*");
+        printf("#");
         column(n - 1);
     }
 }
